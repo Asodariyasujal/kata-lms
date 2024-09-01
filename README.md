@@ -90,6 +90,6 @@ This project follows TDD principles to solve the kata problem. The solution is b
 2. Click on the `Reload All Maven Projects` button to ensure all dependencies are downloaded and the project is set up correctly.
 
 
--### output like this
+- ### Build the Project
 ![Screenshot 2024-09-01 122613](https://github.com/user-attachments/assets/d702c788-2c08-4951-8abd-98783d477268)
 
